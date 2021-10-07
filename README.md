@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors
+# Rock Paper Scissors
 
 ##### FIRST NAME: La'Tonia Mertica
 ###### note_1: pronounced *luh tone yuh merr treece*
