@@ -1,4 +1,5 @@
 # Rock Paper Scissors
+*solid sprint for getHand() and Math.floor() functions ... simple while powerful code*
 
 ##### FIRST NAME: La'Tonia Mertica
 ###### note_1: pronounced *luh tone yuh merr treece*
